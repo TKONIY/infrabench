@@ -1,0 +1,1 @@
+var e=`/infrabench`.replace(/\/$/,``),t=t=>`${e}${t.startsWith(`/`)?t:`/${t}`}`;export{t};
